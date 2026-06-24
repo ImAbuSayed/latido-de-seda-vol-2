@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-seda-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Latido de seda, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-seda-vol-2/) |
+| **Get License** | [Get License For Latido de seda, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-seda-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `614d01676e46d388ef4b8981ed250567864aa3cfe80e49a4d9a313766d6921e8` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
