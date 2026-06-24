@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Luces de neón brillando en tu piel,
+> Este roce de seda me sabe a miel.
+> Mami, tú y yo rompiendo la ciudad,
+> Siente el deseo en la oscuridad.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
